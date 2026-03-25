@@ -1,4 +1,4 @@
----
+***
 
 ### **Setup and Execution Guide: Car Rental Management System**
 
@@ -37,4 +37,4 @@ The Spring Boot application includes an embedded Apache Tomcat server that handl
 3. Open your web browser and navigate to the application dashboard at: **`http://localhost:8080`**
 4. From this interface, you may fully test the Create, Read, Update, and Delete (CRUD) operations, which will actively persist data to the underlying PostgreSQL database.
 
----
+***
